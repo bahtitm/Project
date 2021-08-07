@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Project.Infrastructure.Persistence
+namespace Project.Application
 {
     public class Class1
     {
